@@ -1,4 +1,4 @@
-# Projeto_Conceitual_DIO
+
 # Modelo Conceitual de E-commerce
 ## Descrição Geral
 Este projeto consistiu na criação de um **modelo conceitual de banco de dados** para um sistema de E-COMMERCE, desenvolvido no **MySQL Workbench**. O objetivo foi mapear as entidades e os relacionamentos essenciais para gerenciar clientes, produtos, pedidos, pagamentos e entregas, garantindo flexibilidade e escalabilidade.
