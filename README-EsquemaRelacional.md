@@ -24,7 +24,8 @@ O sistema de e-commerce foi modelado com as seguintes entidades e relações:
 - **Pedido-Entrega**: Cada pedido tem um status de entrega associado, incluindo o código de rastreio.
 
 
-- Este repositório contém os seguintes arquivos:
+
+###  Este repositório contém os seguintes arquivos:
 
 1. **E-commerce-DIO.sql**  
    Contém o script SQL responsável pela criação das tabelas e a definição das constraints e relacionamentos entre elas. Este script define o esquema do banco de dados relacional, criando as tabelas necessárias para o sistema de e-commerce.
