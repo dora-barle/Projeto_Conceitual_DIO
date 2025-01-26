@@ -1,7 +1,7 @@
-# Desafio de Modelagem e Implementação de Banco de Dados Relacional para E-commerce
+# Desafio de Implementação de Banco de Dados Relacional para E-commerce
 
 ## Objetivo
-O objetivo deste projeto foi recriar a modelagem de um sistema de E-commerce a partir de um modelo conceitual, transformando-o em um banco de dados relacional. 
+O objetivo deste projeto foi implementar un banco de dados relacional a partir de um modelo conceitual. 
 
 ## Modelagem do Banco de Dados
 
