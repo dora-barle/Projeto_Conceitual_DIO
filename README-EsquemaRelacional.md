@@ -1,7 +1,7 @@
 # Desafio de Implementação de Banco de Dados Relacional para E-commerce
 
 ## Objetivo
-O objetivo deste projeto foi implementar un banco de dados relacional a partir de um modelo conceitual. 
+O objetivo deste projeto foi implementar un banco de dados relacional a partir de um modelo conceitual. Desenvolvido no MySQL Workbench.
 
 ## Modelagem do Banco de Dados
 
